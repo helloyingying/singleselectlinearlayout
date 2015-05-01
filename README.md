@@ -13,9 +13,9 @@ And if you click the third:
 
 Very simple. 
 
-1. Clone the library, and copy ** SingleSelectLinearLayout.java ** and ** ITMSearchInShopSingleSelectCallback.java ** into your project. 
-2. Implement the interface ** ITMSearchInShopSingleSelectCallback **, and custorm the two method   ** onItemSelected(View view), onItemUnSelected(View view)**.
-3. Use ** SingleSelectLinearLayout ** as LinearLayout in your XML or code.
+1. Clone the library, and copy SingleSelectLinearLayout.java and ITMSearchInShopSingleSelectCallback.java into your project. 
+2. Implement the interface ITMSearchInShopSingleSelectCallback, and custorm the two method onItemSelected(View view) and onItemUnSelected(View view).
+3. Use SingleSelectLinearLayout as LinearLayout in your XML or code.
 
 
 # What's more?
